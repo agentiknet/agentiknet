@@ -21,6 +21,7 @@ I work across the whole stack: an open agent protocol, the design systems that t
 | **[OpenAgentik](https://github.com/openagentik/stack)** | The open stack to run an AI agency — forkable, spec-compliant, opinionated. Solo founders deserve a real stack, not 8 ChatGPT tabs. |
 | **[agentagencies/v1](https://github.com/agencies-sh/spec)** | Open spec for AI agencies, extending `agentcompanies/v1`. |
 | **[Canvakit](https://github.com/canvakit/canvakit)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. |
+| **[ESP32 Realtime Voice Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)** | Realtime voice assistant on ESP32 — edge AI, hardware meets conversational agents. |
 
 ---
 
