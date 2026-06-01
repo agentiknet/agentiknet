@@ -8,7 +8,7 @@ I work across the whole stack: an open agent protocol, the design systems that t
 
 ## 🚀 Live products
 
-| | |
+| Product | What it is |
 |---|---|
 | **[Guilde](https://guilde.work)** | AI company platform — assemble a guild of operators that plan, execute, and ship work autonomously. |
 | **[DesignKit](https://designkit.sh)** | Design-system-as-a-service — tokens, primitives, and theming for agent-native UIs. |
