@@ -12,7 +12,7 @@ I work across the whole stack: an open agent protocol, the design systems that t
 |---|---|
 | **[Guilde](https://guilde.work)** | AI company platform — assemble a guild of operators that plan, execute, and ship work autonomously. |
 | **[DesignKit](https://designkit.sh)** | Design-system-as-a-service — tokens, primitives, and theming for agent-native UIs. |
-| **Simone** | Multimodal companion agent — voice, vision, and real-time conversation. |
+| **[Simone](https://simone.app)** | Multimodal companion agent — voice, vision, and real-time conversation. |
 
 ## 🧩 Open source
 
@@ -20,8 +20,7 @@ I work across the whole stack: an open agent protocol, the design systems that t
 |---|---|---|
 | **[AgentProto (AIP)](https://agentproto.sh)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. | [site](https://agentproto.sh) · [cli](https://cli.agentproto.sh) · [code](https://github.com/agentproto/agentproto) |
 | **[Canvakit](https://canvakit.sh)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. | [site](https://canvakit.sh) · [code](https://github.com/canvakit/canvakit) |
-| **[OpenAgentik](https://github.com/openagentik/stack)** | The open stack to run an AI agency — forkable, spec-compliant, opinionated. Solo founders deserve a real stack, not 8 ChatGPT tabs. | [code](https://github.com/openagentik/stack) |
-| **[agentagencies/v1](https://github.com/agencies-sh/spec)** | Open spec for AI agencies, extending `agentcompanies/v1`. | [spec](https://github.com/agencies-sh/spec) |
+| **[agentagencies/v1](https://agencies.sh)** | Open spec for AI agencies, extending `agentcompanies/v1`. | [site](https://agencies.sh) · [spec](https://github.com/agencies-sh/spec) |
 | **[ESP32 Realtime Voice Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)** | Realtime voice assistant on ESP32 — edge AI, hardware meets conversational agents. | [code](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant) |
 
 ---
