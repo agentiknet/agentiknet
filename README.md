@@ -17,9 +17,10 @@ I work across the whole stack: an open agent protocol, the design systems that t
 
 | Project | What it is |
 |---|---|
-| **AgentProto (AIP)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. |
-| **DesignKit** | Low-level, brand-agnostic design system — tokens, primitives, and theming for agent-native UIs. |
-| **Canvakit** | Open standard for templates + data sources — composable, source-of-truth design artifacts. |
+| **[AgentProto (AIP)](https://github.com/agentproto/agentproto)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. |
+| **[OpenAgentik](https://github.com/openagentik/stack)** | The open stack to run an AI agency — forkable, spec-compliant, opinionated. Solo founders deserve a real stack, not 8 ChatGPT tabs. |
+| **[agentagencies/v1](https://github.com/agencies-sh/spec)** | Open spec for AI agencies, extending `agentcompanies/v1`. |
+| **[Canvakit](https://github.com/canvakit/canvakit)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. |
 
 ---
 
