@@ -21,6 +21,7 @@ I work across the whole stack: an open agent protocol, the design systems that t
 | **[AgentProto (AIP)](https://agentproto.sh)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. | [site](https://agentproto.sh) · [cli](https://cli.agentproto.sh) · [code](https://github.com/agentproto/agentproto) |
 | **[Canvakit](https://canvakit.sh)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. | [site](https://canvakit.sh) · [code](https://github.com/canvakit/canvakit) |
 | **[agentagencies/v1](https://agencies.sh)** | Open spec for AI agencies, extending `agentcompanies/v1`. | [site](https://agencies.sh) · [spec](https://github.com/agencies-sh/spec) |
+| **[agentgovernance/v1](https://governance.sh)** | File-format spec for approvals, hash-chained audit logs, and autonomy policies — vendor-neutral, third-party verifiable (AIP-7). | [site](https://governance.sh) |
 | **[ESP32 Realtime Voice Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)** | Realtime voice assistant on ESP32 — edge AI, hardware meets conversational agents. | [code](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant) |
 
 ---
