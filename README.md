@@ -16,13 +16,13 @@ I work across the whole stack: an open agent protocol, the design systems that t
 
 ## 🧩 Open source
 
-| Project | What it is |
-|---|---|
-| **[AgentProto (AIP)](https://github.com/agentproto/agentproto)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. |
-| **[OpenAgentik](https://github.com/openagentik/stack)** | The open stack to run an AI agency — forkable, spec-compliant, opinionated. Solo founders deserve a real stack, not 8 ChatGPT tabs. |
-| **[agentagencies/v1](https://github.com/agencies-sh/spec)** | Open spec for AI agencies, extending `agentcompanies/v1`. |
-| **[Canvakit](https://github.com/canvakit/canvakit)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. |
-| **[ESP32 Realtime Voice Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)** | Realtime voice assistant on ESP32 — edge AI, hardware meets conversational agents. |
+| Project | What it is | |
+|---|---|---|
+| **[AgentProto (AIP)](https://agentproto.sh)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. | [site](https://agentproto.sh) · [cli](https://cli.agentproto.sh) · [code](https://github.com/agentproto/agentproto) |
+| **[Canvakit](https://canvakit.sh)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. | [site](https://canvakit.sh) · [code](https://github.com/canvakit/canvakit) |
+| **[OpenAgentik](https://github.com/openagentik/stack)** | The open stack to run an AI agency — forkable, spec-compliant, opinionated. Solo founders deserve a real stack, not 8 ChatGPT tabs. | [code](https://github.com/openagentik/stack) |
+| **[agentagencies/v1](https://github.com/agencies-sh/spec)** | Open spec for AI agencies, extending `agentcompanies/v1`. | [spec](https://github.com/agencies-sh/spec) |
+| **[ESP32 Realtime Voice Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)** | Realtime voice assistant on ESP32 — edge AI, hardware meets conversational agents. | [code](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant) |
 
 ---
 
