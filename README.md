@@ -25,6 +25,14 @@ I work across the whole stack: an open agent protocol, the design systems that t
 | **[ESP32 Realtime Voice Assistant](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant)** | Realtime voice assistant on ESP32 — edge AI, hardware meets conversational agents. | [code](https://github.com/FabrikappAgency/esp32-realtime-voice-assistant) |
 | **[Supadmin](https://github.com/JeremyFabrikapp/supadmin)** | A local dashboard and analytics for Supabase. | [code](https://github.com/JeremyFabrikapp/supadmin) |
 
+## 🤝 Contributing to the ecosystem
+
+Merged PRs to the tools I build on:
+
+- **[Mastra](https://github.com/mastra-ai/mastra/pulls?q=is%3Apr+author%3AJeremyFabrikapp)** — tool-call history fixes + preserving empty assistant messages
+- **[assistant-ui](https://github.com/assistant-ui/assistant-ui/pulls?q=is%3Apr+author%3AJeremyFabrikapp)** — edge runtime status fix
+- **[LangChain.js](https://github.com/langchain-ai/langchainjs/pulls?q=is%3Apr+author%3AJeremyFabrikapp)** — document loader examples + splitters
+
 ---
 
 ## 🛠 Stack
