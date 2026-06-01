@@ -16,7 +16,7 @@ I work across the whole stack: an open agent protocol, the design systems that t
 
 ## 🧩 Open source
 
-| Project | What it is | |
+| Project | What it is | Links |
 |---|---|---|
 | **[AgentProto (AIP)](https://agentproto.sh)** | Vendor-neutral **open agent protocol** — define a tool once, project it to CLI / HTTP / MCP / SDK / Mastra. The substrate agents actually run on. | [site](https://agentproto.sh) · [cli](https://cli.agentproto.sh) · [code](https://github.com/agentproto/agentproto) |
 | **[Canvakit](https://canvakit.sh)** | Open standard for templates + data sources — composable, source-of-truth design artifacts. | [site](https://canvakit.sh) · [code](https://github.com/canvakit/canvakit) |
